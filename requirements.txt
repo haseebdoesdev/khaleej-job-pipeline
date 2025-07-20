@@ -1,0 +1,35 @@
+# Web scraping and automation
+requests>=2.31.0
+selenium>=4.15.0
+beautifulsoup4>=4.12.2
+
+# HTML templating
+jinja2>=3.1.2
+
+# AI processing
+google-generativeai>=0.3.0
+
+# Data processing
+pandas>=2.1.0
+
+# Clipboard operations
+pyperclip>=1.8.2
+
+# Job scheduling
+schedule>=1.2.0
+
+# Fuzzy string matching (for validation)
+fuzzywuzzy>=0.18.0
+python-Levenshtein>=0.21.0
+
+# Excel file operations (if needed)
+openpyxl>=3.1.2
+
+# Logging enhancements (optional)
+colorlog>=6.7.0
+
+# HTTP client enhancements
+httpx>=0.24.0
+
+# Date/time handling
+python-dateutil>=2.8.2
